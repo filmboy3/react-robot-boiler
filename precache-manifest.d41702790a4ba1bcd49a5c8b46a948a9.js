@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-robot-boiler/static/css/1.17d3e02e.chunk.css"
   },
   {
-    "revision": "5d0e8cbf94c5108026f8db504403a2c4",
+    "revision": "51d29a94a863d2bb1326e76a3eb2a286",
     "url": "/react-robot-boiler/index.html"
   }
 ];
