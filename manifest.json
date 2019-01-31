@@ -1,6 +1,6 @@
 {
-  "short_name": "RoboFriends",
   "name": "Robot Friends",
+  "short_name": "RoboFriends",
   "icons": [
     {
       "src": "favicon-16x16.png",
