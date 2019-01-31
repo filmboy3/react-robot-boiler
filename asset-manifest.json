@@ -1,7 +1,7 @@
 {
   "main.css": "/react-robot-boiler/static/css/main.ff81fbf5.chunk.css",
-  "main.js": "/react-robot-boiler/static/js/main.df49cd41.chunk.js",
-  "main.js.map": "/react-robot-boiler/static/js/main.df49cd41.chunk.js.map",
+  "main.js": "/react-robot-boiler/static/js/main.86581506.chunk.js",
+  "main.js.map": "/react-robot-boiler/static/js/main.86581506.chunk.js.map",
   "static/css/1.17d3e02e.chunk.css": "/react-robot-boiler/static/css/1.17d3e02e.chunk.css",
   "static/js/1.2719b7d5.chunk.js": "/react-robot-boiler/static/js/1.2719b7d5.chunk.js",
   "static/js/1.2719b7d5.chunk.js.map": "/react-robot-boiler/static/js/1.2719b7d5.chunk.js.map",
@@ -11,6 +11,6 @@
   "static/media/App.css": "/react-robot-boiler/static/media/SEGA.82e09f78.TTF",
   "static/css/main.ff81fbf5.chunk.css.map": "/react-robot-boiler/static/css/main.ff81fbf5.chunk.css.map",
   "index.html": "/react-robot-boiler/index.html",
-  "precache-manifest.7e4b552fe82621389b8a37d2471dbe18.js": "/react-robot-boiler/precache-manifest.7e4b552fe82621389b8a37d2471dbe18.js",
+  "precache-manifest.dcf5c1be8a8c23ac61b269e468b8f75e.js": "/react-robot-boiler/precache-manifest.dcf5c1be8a8c23ac61b269e468b8f75e.js",
   "service-worker.js": "/react-robot-boiler/service-worker.js"
 }
