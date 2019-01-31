@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/react-robot-boiler/static/js/runtime~main.f8c3a581.js"
   },
   {
-    "revision": "1e3a6784b834da23ff0c",
-    "url": "/react-robot-boiler/static/js/main.1e3a6784.chunk.js"
+    "revision": "93ac55b82cefee35f8b4",
+    "url": "/react-robot-boiler/static/js/main.93ac55b8.chunk.js"
   },
   {
     "revision": "2719b7d58595a08e9687",
     "url": "/react-robot-boiler/static/js/1.2719b7d5.chunk.js"
   },
   {
-    "revision": "1e3a6784b834da23ff0c",
+    "revision": "93ac55b82cefee35f8b4",
     "url": "/react-robot-boiler/static/css/main.7b76db5e.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/react-robot-boiler/static/css/1.17d3e02e.chunk.css"
   },
   {
-    "revision": "5eed5c44ef1a05c408d028962610c5dc",
+    "revision": "e37d88994252349f09cc1e524fb83a21",
     "url": "/react-robot-boiler/index.html"
   }
 ];
