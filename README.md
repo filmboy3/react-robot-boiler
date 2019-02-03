@@ -1,1 +1,1 @@
-### A Simple for React-Redux app for optimization tests
+### A Simple for React-Redux app for optimization testing
